@@ -74,7 +74,8 @@ hr {
   padding: 20px;
 }
 
-.left-col-container,
+.left-col-container-1,
+.left-col-container-2,
 .right-col-container {
   box-shadow: #00000059 0 5px 15px;
   margin-bottom: 30px;
