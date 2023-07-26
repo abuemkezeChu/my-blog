@@ -213,7 +213,8 @@ hr {
   color: #000;
 }
 
-.footer-text,a {
+.footer-text,
+a {
   margin-top: 40px;
   color: #fff;
   font-size: 15px;
