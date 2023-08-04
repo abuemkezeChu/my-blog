@@ -126,7 +126,7 @@ hr {
 }
 
 .right-col-container {
-  max-width: 435px;
+  max-width: 100%;
 }
 
 .right-col-row-1 {
@@ -219,4 +219,10 @@ a {
   margin-top: 40px;
   color: #fff;
   font-size: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    display: block;
+  }
 }
